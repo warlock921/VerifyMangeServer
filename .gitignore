@@ -1,0 +1,10 @@
+__pycache__/
+migrations/
+.idea/
+media/
+nginx-pro
+uwsgi_hqjy.ini
+uwsgi_params
+uwsgi/
+static_collected/
+
